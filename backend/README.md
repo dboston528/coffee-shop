@@ -83,3 +83,6 @@ There are `@TODO` comments throughout the `./backend/src`. We recommend tackling
 
 1. `./src/auth/auth.py`
 2. `./src/api.py`
+
+### Activating the Virtual Environment
+`source env/bin/activate`
